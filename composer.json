@@ -3,6 +3,9 @@
     "description": "Laravel Cities package",
     "type": "laravel package",
     "license": "MIT",
+    "keywords": ["cities","turkey"],
+    "homepage": "https://github.com/taner-in-code/cities",
+    "license": "MIT",
     "authors": [
         {
             "name": "Taner Tombas",
