@@ -1,0 +1,16 @@
+{
+    "name": "tanerincode/cities",
+    "description": "Laravel Cities package",
+    "type": "laravel package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taner Tombas",
+            "email": "tombastaner@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.2"
+    }
+}
