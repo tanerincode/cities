@@ -1,7 +1,7 @@
 {
     "name": "taner-in-code/cities",
     "description": "Laravel Cities package",
-    "type": "laravel package",
+    "type": "project",
     "keywords": ["cities","turkey"],
     "homepage": "https://github.com/taner-in-code/cities",
     "license": "MIT",
